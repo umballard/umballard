@@ -1,6 +1,5 @@
+  ![The-future-of-design-1024x512](https://github.com/umballard/umballard/assets/137239028/628fa23d-e4b5-43cb-b440-dd6f8e65c71a)
 - 👋 Hi, I’m Uriah Ballard
-  (![The-future-of-design-1024x512](https://github.com/umballard/umballard/assets/137239028/628fa23d-e4b5-43cb-b440-dd6f8e65c71a)
-)
 I'm a passionate Full Stack Software Developer with a unique background in nursing, bringing a blend of empathy and problem-solving skills to the world of technology. My journey from healthcare to coding reflects my commitment to continuous learning and adaptability.
 
 ## 🚀 Quick Overview
