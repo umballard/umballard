@@ -39,11 +39,6 @@ Technology Stack:
     Javascript
     Bootstrap
 
-
-## 📈 GitHub Stats
-
-!(https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)
-
 ## 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/uriahballard/
